@@ -10,13 +10,11 @@ I believe in combining solid software engineering principles with the power of A
 
 ## 🌟 About Me
 
-I'm a curious and detail-oriented developer with a passion for technology, problem-solving, and continuous learning.
+I'm a Backend Developer with **5 years of experience in .NET**, building software solutions and working with backend technologies.
 
-- 🔭 Working on software development and exploring AI-powered applications.
-- 🌱 Learning Python, modern .NET technologies, and open-source AI.
-- 🤖 Passionate about AI-assisted development and intelligent automation.
-- 💡 Interested in software architecture, clean code, and problem-solving.
-- 🚀 Always experimenting with new tools and turning ideas into projects.
+Alongside my .NET background, I have a working knowledge of **Python** and am actively advancing my skills to become a more proficient Python developer.
+
+I'm also passionate about **Artificial Intelligence**. I work with AI tools and technologies and continuously develop my expertise in AI-powered applications and modern development workflows.
 
 ## 🎯 What Drives Me
 
@@ -27,6 +25,12 @@ I'm a curious and detail-oriented developer with a passion for technology, probl
 - Turning curiosity into practical projects.
 
 ## 🛠️ Tech Stack
+
+- **Backend:** C#, .NET, ASP.NET Core, WPF, REST APIs
+- **Databases:** SQL Server, Entity Framework, LINQ
+- **Python:** Python development and ecosystem
+- **AI:** AI-assisted development, LLMs, and AI-powered workflows
+- **Tools:** Git, Visual Studio
 
 **Languages**
 
@@ -67,6 +71,11 @@ I use AI to:
 - Local LLMs and open-source AI models.
 - AI-assisted software engineering.
 - Automation and intelligent applications.
+
+### Currently Building
+- Expanding my Python expertise and exploring its backend ecosystem.
+- Developing practical skills in AI and LLM-powered applications.
+- Exploring ways to combine backend engineering with AI to build smarter software solutions.
 
 ## 💬 Let's Talk About
 
