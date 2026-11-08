@@ -1,91 +1,84 @@
-# 👋 Hi, I'm Negar!
+# Hi, I'm Negar 👋
 
-### 💻 Software Developer | .NET Developer | AI Enthusiast
+**Backend Engineer | .NET → Python**
 
-I'm a software developer who enjoys turning ideas into practical software solutions, solving complex problems, and continuously exploring new technologies.
+Backend developer with **5 years of professional experience in .NET**, building and maintaining backend and desktop applications.
 
-I believe in combining solid software engineering principles with the power of AI to build smarter, more efficient solutions.
+I'm expanding my backend expertise into **Python**, applying it through hands-on projects and exploring modern backend architecture and engineering practices.
 
----
+## 🚧 Currently Building
 
-## 🌟 About Me
+### [kifbazar](#)
 
-I'm a Backend Developer with **5 years of experience in .NET**, building software solutions and working with backend technologies.
+A prepaid-wallet marketplace API focused on core backend engineering challenges:
 
-Alongside my .NET background, I have a working knowledge of **Python** and am actively advancing my skills to become a more proficient Python developer.
+- Double-entry ledger
+- Idempotent checkout
+- Atomic inventory management
 
-I'm also passionate about **Artificial Intelligence**. I work with AI tools and technologies and continuously develop my expertise in AI-powered applications and modern development workflows.
+**Tech Stack:** FastAPI · PostgreSQL · Redis · Docker
 
-## 🎯 What Drives Me
+The project includes technical documentation, architecture decisions, a development roadmap, and implementation progress.
 
-- Building useful software that solves real-world problems.
-- Exploring how AI can transform software development.
-- Learning how things work under the hood.
-- Improving code quality, efficiency, and development workflows.
-- Turning curiosity into practical projects.
+## 💼 Professional Background
 
-## 🛠️ Tech Stack
+**5 years of experience with .NET**
 
-- **Backend:** C#, .NET, ASP.NET Core, WPF, REST APIs
-- **Databases:** SQL Server, Entity Framework, LINQ
-- **Python:** Python development and ecosystem
-- **AI:** AI-assisted development, LLMs, and AI-powered workflows
-- **Tools:** Git, Visual Studio
+- Built and maintained backend and desktop applications using C# and .NET.
+- Worked with WPF, ASP.NET Core, SQL Server, and Entity Framework Core.
+- Designed and consumed REST APIs.
+- Worked with relational data models and backend business logic.
 
-**Languages**
+## 🛠️ Skills
 
-`C#` `Python` `SQL`
+**Professional Experience**
 
-**Frameworks & Technologies**
+`C#` ` .NET` `ASP.NET Core` `Entity Framework Core` `LINQ` `SQL Server` `REST APIs` `WPF` `Git`
 
-`.NET` `WPF` `ASP.NET Core` `Entity Framework Core`
+**Currently Learning and Applying**
 
-**Databases**
+`Python` `FastAPI` `PostgreSQL` `Redis` `pytest` `Docker` `GitHub Actions`
 
-`Microsoft SQL Server`
+**Exploring Next**
 
-**AI & Intelligent Tools**
+`NoSQL` · `Event-Driven Architecture` · `Monitoring & Observability`
 
-`ChatGPT` `GitHub Copilot` `Ollama` `ComfyUI`
+## 📐 Engineering Approach
 
-**Development Tools**
+I believe documentation and design are part of software engineering, not an afterthought.
 
-`Git` `GitHub` `Visual Studio` `VS Code`
+In my projects, I focus on:
 
-## 🤖 AI & Development
+- **Business Logic Documentation:** System behavior, business rules, and critical constraints.
+- **Architecture Documentation:** Layered architecture and C4-style diagrams using Mermaid.
+- **Data Modeling:** ER diagrams, database constraints, indexes, and design decisions.
+- **System Flows:** Sequence diagrams for critical operations such as checkout and payment callbacks.
+- **Architecture Decision Records (ADRs):** Documenting important technical decisions and their trade-offs.
+- **Testing:** Writing tests for critical requirements, especially concurrency and idempotency.
 
-AI is an essential part of my development workflow.
+## 🤖 AI-Assisted Development
 
-I use AI to:
-- Analyze requirements and explore technical solutions.
-- Accelerate coding, debugging, and refactoring.
-- Understand unfamiliar codebases and technologies.
-- Improve problem-solving and development productivity.
-- Experiment with local AI models and open-source tools.
-- Explore AI-powered creative and automation workflows.
+I use AI tools, including GitHub Copilot and local models through Ollama, to support coding, debugging, and learning unfamiliar technologies.
 
-## 📚 Currently Exploring
+I review and validate AI-generated code rather than relying on it blindly.
 
-- Python and AI development.
-- Modern .NET ecosystem.
-- Local LLMs and open-source AI models.
-- AI-assisted software engineering.
-- Automation and intelligent applications.
+## 🧰 Tech Stack
 
-### Currently Building
-- Expanding my Python expertise and exploring its backend ecosystem.
-- Developing practical skills in AI and LLM-powered applications.
-- Exploring ways to combine backend engineering with AI to build smarter software solutions.
+**Professional Experience**
 
-## 💬 Let's Talk About
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-C#, .NET, WPF, SQL Server, Python, AI-assisted development, software engineering, and new technologies.
+**Currently Learning and Applying**
 
-## 🌐 Connect With Me
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-[GitHub](https://github.com/mah2002)
-- Email: [n.mahmoodi8001@gmail.com](n.mahmoodi8001@gmail.com)
+## 📊 GitHub Stats
 
----
-
-⭐ Thanks for stopping by! Keep learning, keep building, and stay curious.
+![GitHub Streak](https://streak-stats.demolab.com?user=mah2002&theme=dark)
