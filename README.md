@@ -1,86 +1,82 @@
-# Hi 👋, I'm Negar
+# 👋 Hi, I'm Negar!
 
-### Software Developer | .NET Engineer | AI Enthusiast
+### 💻 Software Developer | .NET Developer | AI Enthusiast
 
-I’m a software developer passionate about building practical, reliable, and well-structured software solutions.
+I'm a software developer who enjoys turning ideas into practical software solutions, solving complex problems, and continuously exploring new technologies.
 
-I enjoy solving complex problems, exploring new technologies, and leveraging AI to make software development smarter, faster, and more efficient.
+I believe in combining solid software engineering principles with the power of AI to build smarter, more efficient solutions.
 
-### 🚀 About Me
+---
 
-- 💻 Experienced in **C# and .NET development**
-- 🖥️ Experienced in building desktop applications with **WPF**
-- 🌐 Familiar with backend development using **ASP.NET Core**
-- 🤖 Skilled in using **AI tools and AI-assisted development workflows** to accelerate coding, debugging, problem-solving, and software design
-- 🐍 Exploring and working with **Python**
-- 🗄️ Working with relational databases and **SQL Server**
-- 🔍 Interested in clean code, software architecture, and efficient development practices
-- 🌱 Always learning, experimenting, and building new things
+## 🌟 About Me
 
-### 🛠️ Tech Stack & Tools
+I'm a curious and detail-oriented developer with a passion for technology, problem-solving, and continuous learning.
+
+- 🔭 Working on software development and exploring AI-powered applications.
+- 🌱 Learning Python, modern .NET technologies, and open-source AI.
+- 🤖 Passionate about AI-assisted development and intelligent automation.
+- 💡 Interested in software architecture, clean code, and problem-solving.
+- 🚀 Always experimenting with new tools and turning ideas into projects.
+
+## 🎯 What Drives Me
+
+- Building useful software that solves real-world problems.
+- Exploring how AI can transform software development.
+- Learning how things work under the hood.
+- Improving code quality, efficiency, and development workflows.
+- Turning curiosity into practical projects.
+
+## 🛠️ Tech Stack
 
 **Languages**
-- C#
-- Python
-- SQL
+
+`C#` `Python` `SQL`
 
 **Frameworks & Technologies**
-- .NET
-- WPF
-- ASP.NET Core
-- Entity Framework Core
+
+`.NET` `WPF` `ASP.NET Core` `Entity Framework Core`
 
 **Databases**
-- Microsoft SQL Server
 
-**AI & Development Tools**
-- ChatGPT
-- GitHub Copilot
-- AI-assisted coding and debugging
-- Prompt Engineering
-- ComfyUI
-- Ollama
+`Microsoft SQL Server`
 
-**Tools & Platforms**
-- Git
-- GitHub
-- Visual Studio
-- Visual Studio Code
-- Windows
+**AI & Intelligent Tools**
 
-### 🤖 AI-Powered Development
+`ChatGPT` `GitHub Copilot` `Ollama` `ComfyUI`
 
-I believe AI is more than just a coding assistant. I use AI tools to:
+**Development Tools**
 
-- Improve development productivity
-- Analyze requirements and explore solutions
-- Debug and refactor code
-- Understand unfamiliar technologies
-- Automate repetitive tasks
-- Experiment with open-source AI models and local AI workflows
+`Git` `GitHub` `Visual Studio` `VS Code`
 
-### 🎯 What I'm Interested In
+## 🤖 AI & Development
 
-- Software Engineering
-- AI-powered applications
-- Backend Development
-- Desktop Application Development
-- Automation and Productivity
-- Exploring emerging technologies
+AI is an essential part of my development workflow.
 
-### 📫 Let's Connect
+I use AI to:
+- Analyze requirements and explore technical solutions.
+- Accelerate coding, debugging, and refactoring.
+- Understand unfamiliar codebases and technologies.
+- Improve problem-solving and development productivity.
+- Experiment with local AI models and open-source tools.
+- Explore AI-powered creative and automation workflows.
 
-I'm always interested in learning, sharing ideas, and collaborating on meaningful projects.
+## 📚 Currently Exploring
 
-Thanks for visiting my profile! ⭐
+- Python and AI development.
+- Modern .NET ecosystem.
+- Local LLMs and open-source AI models.
+- AI-assisted software engineering.
+- Automation and intelligent applications.
 
-### ✨ More About Me
+## 💬 Let's Talk About
 
-- 🔭 I’m currently working on **.NET applications and exploring AI-powered development workflows**
-- 🌱 I’m currently learning **Python, advanced .NET concepts, and open-source AI technologies**
-- 👯 I’m looking to collaborate on **interesting software projects, AI-powered tools, and automation solutions**
-- 🤔 I’m always exploring better ways to **write clean code, solve complex problems, and build scalable applications**
-- 💬 Ask me about **C#, .NET, WPF, SQL Server, Python, and AI-assisted software development**
-- 📫 How to reach me: **[Your Email](mailto:n.mahmoodi8001@gmail.com)**
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **I enjoy exploring how AI can turn ambitious ideas into working projects!**
+C#, .NET, WPF, SQL Server, Python, AI-assisted development, software engineering, and new technologies.
+
+## 🌐 Connect With Me
+
+[GitHub](https://github.com/mah2002)
+- Email: [n.mahmoodi8001@gmail.com](n.mahmoodi8001@gmail.com)
+
+---
+
+⭐ Thanks for stopping by! Keep learning, keep building, and stay curious.
